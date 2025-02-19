@@ -1,0 +1,10 @@
+{
+  "name": "edukids-ai",
+  "framework": "vite",
+  "routes": [
+    {
+      "src": "/api/generateQuiz",
+      "dest": "/functions/api/generateQuiz.ts"
+    }
+  ]
+}
